@@ -1,0 +1,6 @@
+id=ezme-nodebug
+name=Hide UserDebug, Test-Keys and LineageOS
+version=v1
+versionCode=1000
+author=ez-me
+description=Change some props and "remove" LineageOS ones
